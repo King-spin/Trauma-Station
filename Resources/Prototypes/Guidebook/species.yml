@@ -16,7 +16,9 @@
   - Harpy
   - IPC
   - Plasmaman
+  - Volton
   # </Trauma>
+
 
 - type: guideEntry
   id: Arachnid
@@ -63,3 +65,9 @@
 #  id: Vulpkanin
 #  name: species-name-vulpkanin
 #  text: "/ServerInfo/Guidebook/Mobs/Vulpkanin.xml"
+
+#Trauma
+#- type: guideentry
+#id: Voltons
+# name: specices-name-volton
+#text: "/ServerInfo/Guidebook/Mobs/Voltons.xml"

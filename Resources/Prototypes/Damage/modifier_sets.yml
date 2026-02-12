@@ -225,6 +225,12 @@
     Poison: 1
   ignoreArmorPierceFlags: All # Goobstation
 
+  type: damageModifierSet
+  id: sylph
+  coefficients:
+  Shock: 0.66
+
+
 - type: damageModifierSet
   id: Zombie #Goob change, make zombies great again
   coefficients:

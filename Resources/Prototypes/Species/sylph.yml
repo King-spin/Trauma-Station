@@ -1,0 +1,31 @@
+# SPDX-FileCopyrightText: 2026 kingspin
+# SPDX-License-Identifier: AGPL-3.0-or-later
+# sylph code is going to make me enter psychosis from trying to figure out how to add a sprite sheet and race compents
+
+ type: species
+ id: sylph
+ name: species-name-sylph
+ roundStart: true
+ prototype: Mobsylph
+ sprites: MobsylphSprites
+ dollPrototype: MobsylphDummy
+ skinColoration: Hues
+ defaultSkinTone: "#00fa9a"
+ sexes:
+ - Unsexed
+
+ - type: speciesBaseSprites
+   id: MobsylphSprites
+   sprites:
+    Head: MobsylphHead
+    Chest: MobsylphChest
+    Groin: MobsylphGroin
+    Eyes: MobHumanoidEyes
+    LArm: MobsylphlArm
+    RArm: MobsylphrArm
+    LHand: MobsylphLHand
+    RHand: MobsylphnRHand
+    LLeg: Mobslyphlleg
+    RLeg: Mobslyphrleg
+    LFoot: MobslyphlFoot
+    RFoot: MobslyphrFoot

@@ -1,0 +1,15 @@
+- type: entity
+  save: false
+  name: Urist Mcbattery
+  parent: BaseMobslyph
+  id: Mobsylph
+  type: MobThresholds
+  thresholds:
+      0: Alive
+      75: Crit
+      150: Dead
+      - type:entity
+ #explosive death
+  component:
+  -
+  - mobState: [ Dead ]
