@@ -15,4 +15,3 @@
   - type: ExplodeOnTrigger
   - type: TriggerOnMobStateChange
   mobState: [ Dead ]
-
