@@ -11,5 +11,8 @@
       - type:entity
  #explosive death
   component:
-  -
-  - mobState: [ Dead ]
+  - type: EmpOnTrigger
+  - type: ExplodeOnTrigger
+  - type: TriggerOnMobStateChange
+  mobState: [ Dead ]
+
