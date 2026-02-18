@@ -10,6 +10,7 @@
     organs:
       Torso: OrganMonkeyTorso
       Head: OrganMonkeyHead
+      Tail: OrganMonkeyTail
       ArmLeft: OrganMonkeyArmLeft
       ArmRight: OrganMonkeyArmRight
       HandRight: OrganMonkeyHandRight
@@ -48,16 +49,23 @@
   - type: VisualOrgan
     data:
       sprite: Mobs/Animals/monkey.rsi
+  - type: VisualOrganMarkings
+    markingData:
+      group: None
 
 ## Parts
 
 - type: entity
-  parent: [ OrganBaseTorso, OrganMonkeyExternal ]
+  parent: [ OrganBaseTorsoTailed, OrganMonkeyExternal ]
   id: OrganMonkeyTorso
 
 - type: entity
   parent: [ OrganBaseHead, OrganMonkeyExternal ]
   id: OrganMonkeyHead
+
+- type: entity
+  parent: [ OrganBaseTail, OrganMonkeyExternal ]
+  id: OrganMonkeyTail
 
 - type: entity
   parent: [ OrganBaseArmLeft, OrganMonkeyExternal ]

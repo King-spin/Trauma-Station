@@ -2442,3 +2442,223 @@ Entries:
   id: 296
   time: '2026-02-12T15:57:35.0000000+00:00'
   url: https://github.com/Trauma-Station/Trauma-Station/pull/633
+- author: NoElkaTheGod
+  changes:
+  - type: Add
+    message: Added Entropic Colossus, a new antagonist closely related to cosmic cult
+  - type: Add
+    message: >-
+      Cosmic cultists can now subvert the station AI after absorbing a malign
+      rift.
+  - type: Tweak
+    message: Many minor fixes and polishing for the cosmic cult.
+  - type: Tweak
+    message: >-
+      The guidebook for cosmic cult was updated in accordance with the new
+      content. Please read it.
+  id: 297
+  time: '2026-02-13T08:28:35.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/654
+- author: deltanedas
+  changes:
+  - type: Fix
+    message: Fixed not being able to use Face markings.
+  id: 298
+  time: '2026-02-13T18:20:00.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/683
+- author: deltanedas
+  changes:
+  - type: Fix
+    message: Fixed monkeys having lizard tails real
+  - type: Fix
+    message: Fixed lizard displacement log spam
+  id: 299
+  time: '2026-02-13T18:32:43.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/684
+- author: deltanedas
+  changes:
+  - type: Fix
+    message: Fixed not having to breathe 🥹
+  id: 300
+  time: '2026-02-13T19:11:51.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/687
+- author: NoElkaTheGod
+  changes:
+  - type: Fix
+    message: Entropic colossus now takes holy damage.
+  - type: Fix
+    message: Entropic colossus is no longer vulnerable to CQC.
+  - type: Fix
+    message: Entropic colossus no longer pushes ghosts.
+  - type: Tweak
+    message: Entropic Colossus min playercount 25 -> 40.
+  id: 301
+  time: '2026-02-14T13:16:59.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/690
+- author: deltanedas
+  changes:
+  - type: Fix
+    message: Fixed /ghost and ghost actions not killing you
+  - type: Fix
+    message: Fixed surgery window reopening 20 times if you close it.
+  id: 302
+  time: '2026-02-14T21:52:41.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/692
+- author: deltanedas
+  changes:
+  - type: Add
+    message: Tails are now bodyparts and can be removed by surgery, explosions, etc.
+  - type: Add
+    message: 'You can now create a tail joint via surgery to turn people into lizards. '
+  id: 303
+  time: '2026-02-15T21:13:47.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/696
+- author: John Carpenter
+  changes:
+  - type: Add
+    message: Lings now get a fake mindshield if they absorb someone with a mindshield
+  - type: Tweak
+    message: Lings are now forced to transform into whoever they absorb
+  id: 304
+  time: '2026-02-15T22:19:46.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/695
+- author: Aviu
+  changes:
+  - type: Fix
+    message: Fixed torso starting with only half of its integrity.
+  - type: Fix
+    message: Fixed damage visuals being wrong color for some species.
+  - type: Fix
+    message: Fixed wizard rod form having wrong direction.
+  - type: Fix
+    message: Fixed lightning wrong direction.
+  - type: Fix
+    message: Fixed staff of change not working.
+  - type: Fix
+    message: Fixed modsuits not sealing.
+  id: 305
+  time: '2026-02-16T06:42:32.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/700
+- author: Aviu
+  changes:
+  - type: Add
+    message: Flesh heretic risen ghouls no longer gib on death.
+  - type: Add
+    message: You can deconvert ghoulified people with holy water.
+  - type: Add
+    message: >-
+      Voiceless Dead has more hp and can now be recalled to the ritual rune and
+      revived, see ritual purchase description for details.
+  - type: Add
+    message: Predicted holy damage and bible smite.
+  - type: Tweak
+    message: 'Knit flesh cooldown: 20s -> 5s.'
+  id: 306
+  time: '2026-02-16T06:44:12.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/615
+- author: deltanedas
+  changes:
+  - type: Fix
+    message: Fixed bleeding not existing.
+  id: 307
+  time: '2026-02-17T08:20:49.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/704
+- author: deltanedas
+  changes:
+  - type: Add
+    message: Genetics is here.
+  id: 308
+  time: '2026-02-17T08:53:22.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/119
+- author: Kirikii
+  changes:
+  - type: Tweak
+    message: Readded slime people's 80% cellular damage resistance.
+  id: 309
+  time: '2026-02-17T13:09:56.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/711
+- author: JohnJJohn
+  changes:
+  - type: Fix
+    message: Fixed Deep fryer being in migration for some reason
+  id: 310
+  time: '2026-02-17T14:42:13.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/714
+- author: Kirikii
+  changes:
+  - type: Tweak
+    message: Changed round end summary for heretics slightly.
+  id: 311
+  time: '2026-02-17T19:52:12.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/720
+- author: deltanedas
+  changes:
+  - type: Fix
+    message: Fixed dwarfs being extra short.
+  id: 312
+  time: '2026-02-17T20:11:36.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/722
+- author: deltanedas
+  changes:
+  - type: Fix
+    message: Fixed mutations with actions giving you 2 of them.
+  - type: Add
+    message: Geneticist traitors can now buy FOXDIE.
+  id: 313
+  time: '2026-02-17T21:38:27.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/723
+- author: deltanedas
+  changes:
+  - type: Tweak
+    message: Monkified mutation now works on kobolds and lizards :)
+  id: 314
+  time: '2026-02-17T23:09:08.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/730
+- author: deltanedas
+  changes:
+  - type: Fix
+    message: >-
+      Gave moths their wings back, no more Phantom Limbs for the Angel With
+      Broken Wings.
+  - type: Fix
+    message: >-
+      Fixed felinidification not working and making nonhumans asphyxiate after
+      being removed.
+  id: 315
+  time: '2026-02-18T08:01:32.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/727
+- author: deltanedas
+  changes:
+  - type: Tweak
+    message: Geneticist job icon is now purple.
+  id: 316
+  time: '2026-02-18T08:15:17.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/737
+- author: deltanedas
+  changes:
+  - type: Fix
+    message: Fixed Slasher meat spike ability spawning fake clientside meat spikes.
+  id: 317
+  time: '2026-02-18T11:45:27.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/738
+- author: deltanedas
+  changes:
+  - type: Fix
+    message: Fixed not being able to use autodocs.
+  id: 318
+  time: '2026-02-18T12:42:55.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/743
+- author: deltanedas
+  changes:
+  - type: Remove
+    message: Disease can no longer roll immunity resistance behaviour.
+  id: 319
+  time: '2026-02-18T14:08:09.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/747
+- author: deltanedas
+  changes:
+  - type: Fix
+    message: Fixed kobolds and monkeys not having tails...
+  id: 320
+  time: '2026-02-18T15:12:49.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/745
